@@ -1,4 +1,4 @@
-ansi-html-community [![NPM version](https://badge.fury.io/js/ansi-html-community.svg)](http://badge.fury.io/js/ansi-html) [![Build Status](https://app.travis-ci.com/mahdyar/ansi-html-community.svg?branch=master)](https://app.travis-ci.com/mahdyar/ansi-html-community)
+ansi-html-community [![NPM version](https://badge.fury.io/js/ansi-html-community.svg)](http://badge.fury.io/js/ansi-html-community) [![Build Status](https://app.travis-ci.com/mahdyar/ansi-html-community.svg?branch=master)](https://app.travis-ci.com/mahdyar/ansi-html-community)
 =========
 An elegant lib that converts the chalked (ANSI) text to HTML.
 
