@@ -1,4 +1,4 @@
-ansi-html [![NPM version](https://badge.fury.io/js/ansi-html.svg)](http://badge.fury.io/js/ansi-html) [![Build Status](https://travis-ci.org/Tjatse/ansi-html.svg?branch=master)](https://travis-ci.org/Tjatse/ansi-html)
+ansi-html [![NPM version](https://badge.fury.io/js/ansi-html-community.svg)](http://badge.fury.io/js/ansi-html) [![Build Status](https://app.travis-ci.com/mahdyar/ansi-html-community.svg?branch=master)](https://app.travis-ci.com/mahdyar/ansi-html-community)
 =========
 An elegant lib that converts the chalked (ANSI) text to HTML.
 
@@ -8,12 +8,12 @@ An elegant lib that converts the chalked (ANSI) text to HTML.
 
 # Installation
 ```
-$ npm install ansi-html
+$ npm install ansi-html-community
 ```
 
 # Usage
 ```javascript
-var ansiHTML = require('ansi-html');
+var ansiHTML = require('ansi-html-community');
 var str = ansiHTML('[ANSI_TEXT]');
 ```
 
