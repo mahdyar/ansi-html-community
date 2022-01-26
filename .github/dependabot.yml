@@ -5,6 +5,6 @@ version: 2
 updates:
   - package-ecosystem: npm
     directory: /
-    schedule: {interval: monthly}
+    schedule: { interval: weekly }
     reviewers: [mahdyar]
     assignees: [mahdyar]
